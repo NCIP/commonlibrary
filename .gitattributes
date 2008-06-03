@@ -2,9 +2,9 @@
 other/os-indepenent/hudson/build-timeout.hpi -text
 other/os-indepenent/hudson/cobertura.hpi -text
 other/os-indepenent/hudson/hudson.war -text
-other/os-indepenent/hudson/hudsontracplugin.zip -text
+other/os-indepenent/hudson/hudsontracplugin.hpi -text
 other/os-indepenent/hudson/jabber.hpi -text
-other/os-indepenent/hudson/pmd.hpi.bin -text
+other/os-indepenent/hudson/pmd.hpi -text
 other/os-indepenent/hudson/scp.hpi -text
 other/os-indepenent/hudson/svn-tag.hpi -text
 other/os-indepenent/hudson/svncompat13.hpi -text
