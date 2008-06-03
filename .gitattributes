@@ -1,6 +1,8 @@
 * text=auto !eol
 other/os-indepenent/hudson/build-timeout.hpi -text
+other/os-indepenent/hudson/checkstyle.hpi -text
 other/os-indepenent/hudson/cobertura.hpi -text
+other/os-indepenent/hudson/findbugs.hpi -text
 other/os-indepenent/hudson/hudson.war -text
 other/os-indepenent/hudson/hudsontracplugin.hpi -text
 other/os-indepenent/hudson/jabber.hpi -text
@@ -8,6 +10,7 @@ other/os-indepenent/hudson/pmd.hpi -text
 other/os-indepenent/hudson/scp.hpi -text
 other/os-indepenent/hudson/svn-tag.hpi -text
 other/os-indepenent/hudson/svncompat13.hpi -text
+other/os-indepenent/hudson/violations.hpi -text
 other/os-indepenent/hudson/vmware.hpi -text
 other/os-indepenent/hudson/xvnc.hpi -text
 other/windows/svn-win32-1.4.6.zip -text
