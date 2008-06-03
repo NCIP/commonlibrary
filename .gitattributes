@@ -1,15 +1,15 @@
 * text=auto !eol
-other/os-indepenent/hudson/build-timeout.hpi.bin -text
-other/os-indepenent/hudson/cobertura.hpi.bin -text
+other/os-indepenent/hudson/build-timeout.hpi -text
+other/os-indepenent/hudson/cobertura.hpi -text
 other/os-indepenent/hudson/hudson.jar -text
 other/os-indepenent/hudson/hudsontracplugin.zip -text
-other/os-indepenent/hudson/jabber.hpi.bin -text
+other/os-indepenent/hudson/jabber.hpi -text
 other/os-indepenent/hudson/pmd.hpi.bin -text
-other/os-indepenent/hudson/scp.hpi.bin -text
-other/os-indepenent/hudson/svn-tag.hpi.bin -text
+other/os-indepenent/hudson/scp.hpi -text
+other/os-indepenent/hudson/svn-tag.hpi -text
 other/os-indepenent/hudson/svncompat13.hpi -text
 other/os-indepenent/hudson/vmware.hpi -text
-other/os-indepenent/hudson/xvnc.hpi.bin -text
+other/os-indepenent/hudson/xvnc.hpi -text
 other/windows/svn-win32-1.4.6.zip -text
 techstack-2006/os-indepenent/jakarta-tomcat-5.0.28.zip -text
 techstack-2006/os-indepenent/jakarta-tomcat-5.0.28.zip.MD5 -text
