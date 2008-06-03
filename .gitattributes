@@ -1,7 +1,7 @@
 * text=auto !eol
 other/os-indepenent/hudson/build-timeout.hpi -text
 other/os-indepenent/hudson/cobertura.hpi -text
-other/os-indepenent/hudson/hudson.jar -text
+other/os-indepenent/hudson/hudson.war -text
 other/os-indepenent/hudson/hudsontracplugin.zip -text
 other/os-indepenent/hudson/jabber.hpi -text
 other/os-indepenent/hudson/pmd.hpi.bin -text
