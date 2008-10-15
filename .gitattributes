@@ -20,6 +20,7 @@ other/os-independent/hudson/xvnc.hpi -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-lib-windows-i586-jre.exe -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-win.zip -text
+other/windows/cygwin.zip -text
 other/windows/svn-win32-1.4.6.zip -text
 techstack-2006/os-independent/apache-tomcat-5.5.17.zip -text
 techstack-2006/os-independent/apache-tomcat-5.5.17.zip.MD5 -text
