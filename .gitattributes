@@ -18,6 +18,8 @@ other/os-independent/hudson/violations.hpi -text
 other/os-independent/hudson/vmware.hpi -text
 other/os-independent/hudson/xvnc.hpi -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-lib-windows-i586-jre.exe -text
+other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux-amd64.zip -text
+other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux-i586.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-win.zip -text
 other/windows/cygwin.zip -text
