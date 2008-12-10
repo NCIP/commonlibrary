@@ -21,6 +21,7 @@ other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-lib-windows
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux-amd64.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux-i586.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-linux.zip -text
+other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-win-native.zip -text
 other/os-independent/java_advanced_imaging_libraries/jai_imageio-1_1-win.zip -text
 other/windows/cygwin.zip -text
 other/windows/svn-win32-1.4.6.zip -text
