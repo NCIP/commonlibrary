@@ -46,6 +46,7 @@ techstack-2007/os-independent/cagrid-wscore-4.0.3-appserver-base-war.zip -text
 techstack-2007/os-independent/cagrid-wscore-4.0.3-appserver-libs.zip -text
 techstack-2007/os-independent/jboss-4.0.5.GA.zip -text
 techstack-2007/os-independent/jboss-4.0.5.GA.zip.MD5 -text
+techstack-2007/os-independent/jboss-4.0.5.GA_CP15.zip -text
 techstack-2007/os-independent/jems-installer-1.2.0.GA.jar -text
 techstack-2007/os-independent/jems-installer-1.2.0.GA.jar.MD5 -text
 techstack-2007/os-independent/jsch-0.1.34.jar -text
