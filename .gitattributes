@@ -56,6 +56,7 @@ techstack-2007/other/SDK4.zip -text
 techstack-2007/windows/jdk-1_5_0_10-windows-i586-p.exe -text
 techstack-2007/windows/mysql-5.0.27-win32.zip -text
 techstack-2007/windows/postgresql-8.2.12-1.zip -text
+techstack-2008/linux/apache-activemq-5.2.0-bin.tar.gz -text
 techstack-2008/linux/jdk-6u14-linux-i586-rpm.bin -text
 techstack-2008/os-independent/apache-tomcat-5.5.20.zip -text
 techstack-2008/os-independent/apache-tomcat-5.5.20.zip.MD5 -text
