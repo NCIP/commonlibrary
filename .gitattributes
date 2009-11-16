@@ -75,3 +75,8 @@ techstack-2009/os-independent/apache-tomcat-6.0.20.zip.MD5 -text
 techstack-2009/os-independent/jboss-5.1.0.GA.zip -text
 techstack-2009/os-independent/jboss-5.1.0.GA.zip.MD5 -text
 techstack-2009/other/grails-bin-1.1.zip -text
+techstack/approved-exception/apache-tomcat-5.5.27.zip -text
+techstack/approved-exception/apache-tomcat-5.5.27.zip.md5 -text
+techstack/approved/apache-servicemix-3.3.1.zip -text
+techstack/approved/apache-servicemix-3.3.1.zip.md5 -text
+techstack/readme.txt -text
