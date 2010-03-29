@@ -84,6 +84,8 @@ techstack/approved-exception/apache-tomcat-5.5.27.zip -text
 techstack/approved-exception/apache-tomcat-5.5.27.zip.MD5 -text
 techstack/approved/apache-servicemix-3.3.1.zip -text
 techstack/approved/apache-servicemix-3.3.1.zip.md5 -text
+techstack/approved/jboss-5.1.0.GA-nci-0.5.zip -text
+techstack/approved/jboss-5.1.0.GA-nci-0.5.zip.MD5 -text
 techstack/approved/jboss-5.1.0.GA-nci_0.3.zip -text
 techstack/approved/jboss-5.1.0.GA-nci_0.3.zip.MD5 -text
 techstack/readme.txt -text
